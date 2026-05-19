@@ -57,7 +57,7 @@ gcc main.c SistemaProduccionFunciones.c -o programa
 
 ## Autors
 
-Kevin Guilcap
-Ricaardo Quelal
-Carlos Jacome 
-Antonio Encalada
+Kevin Guilcap,
+Ricardo Quelal,
+Carlos Jacome,
+Antonio Encalada.
